@@ -1,0 +1,2 @@
+# macos
+Configuration of macOS
