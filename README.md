@@ -8,3 +8,4 @@ Configuration of macOS
 - install pyenv-virtualenv
 - `pyenv install 3.11.0`
 - `pyenv global 3.11.0`
+- copy `home/.*` to `$HOME`
