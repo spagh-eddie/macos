@@ -3,3 +3,4 @@
 	email = darling@berkeley.edu
 [alias]
 	logo = log --oneline
+	pushf = push --force-with-lease
