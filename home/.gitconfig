@@ -2,5 +2,6 @@
 	name = Eddie Darling
 	email = darling@berkeley.edu
 [alias]
+	co = checkout
 	logo = log --oneline
 	pushf = push --force-with-lease
